@@ -1,0 +1,3 @@
+cannot find symbol
+  symbol:   method printlneeewewe(java.lang.String)
+  location: variable out of type java.io.PrintStream
